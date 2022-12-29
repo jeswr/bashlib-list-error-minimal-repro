@@ -1,0 +1,27 @@
+{
+  "name": "bashlib-list-error-minimal-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "ts-node test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeswr/bashlib-list-error-minimal-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeswr/bashlib-list-error-minimal-repro/issues"
+  },
+  "homepage": "https://github.com/jeswr/bashlib-list-error-minimal-repro#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@solid/community-server": "^5.1.0",
+    "solid-bashlib": "^0.2.1"
+  }
+}
